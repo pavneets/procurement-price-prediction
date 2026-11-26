@@ -1,0 +1,13 @@
+#dbt-duckdb>=1.9,<2.0
+duckdb>=1.1
+pandas>=2.0
+pyyaml>=6.0
+scikit-learn>=1.4
+shap>=0.45
+matplotlib>=3.8
+seaborn==0.13.2
+jupyter>=1.0
+nbconvert==7.16.6
+ipykernel==6.29.5
+catboost==1.2.10
+xgboost==2.1.4

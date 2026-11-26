@@ -1,0 +1,7 @@
+check,count,status
+Total purchase lines,8483,INFO
+Customer ID mismatches,13,WARNING
+Missing PO headers,8,WARNING
+Missing item references,10,WARNING
+Invalid quantities,0,PASS
+Invalid unit prices,0,PASS
